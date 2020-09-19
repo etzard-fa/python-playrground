@@ -1,0 +1,4 @@
+2020-07-30 11:58:11,325 INFO: Sending query: http://kau.izzat.com:8983/solr/smartsearch/select?&&fq=general_source_id%3Aciap&q=%2A&rows=10&wt=json
+2020-07-30 11:58:12,140 INFO: *,62,15
+2020-07-30 11:58:12,178 INFO: Sending query: http://kau.izzat.com:8983/solr/smartsearch/select?&&fq=general_source_id%3Agrip&q=%2A&rows=10&wt=json
+2020-07-30 11:58:13,069 INFO: *,93,20
